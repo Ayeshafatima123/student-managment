@@ -1,0 +1,19 @@
+{
+  "name": "ss-student-management",
+  "version": "1.0.1",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "publishConfig": {},
+  "bin": "main.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.13.0"
+  }
+}
